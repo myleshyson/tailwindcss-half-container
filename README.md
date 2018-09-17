@@ -4,7 +4,7 @@ A useful component for when you have two full width columns but want to keep you
 
 Helpful if you have a layout like this for example.
 
-![Example Layout](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example Layout")
+![Example Layout](https://github.com/myleshyson/tailwindcss-half-container/blob/master/Example%20Half%20Container.png "Example Layout")
 
 ## How To Use
 
